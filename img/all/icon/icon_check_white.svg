@@ -1,0 +1,12 @@
+<svg width="9" height="7" viewBox="0 0 9 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>icon_check_white</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-107 172)">
+<g id="icon_check_white">
+<use xlink:href="#path0_fill" transform="translate(107 -172)" fill="#FFFFFF"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0.103846 3.85C 0.0346154 3.78 0 3.675 0 3.605C 0 3.535 0.0346154 3.43 0.103846 3.36L 0.588462 2.87C 0.726923 2.73 0.934615 2.73 1.07308 2.87L 1.10769 2.905L 3.01154 4.97C 3.08077 5.04 3.18462 5.04 3.25385 4.97L 7.89231 0.105L 7.92692 0.105C 8.06538 -0.035 8.27308 -0.035 8.41154 0.105L 8.89615 0.595C 9.03462 0.735 9.03462 0.945 8.89615 1.085L 3.35769 6.895C 3.28846 6.965 3.21923 7 3.11538 7C 3.01154 7 2.94231 6.965 2.87308 6.895L 0.173077 3.955L 0.103846 3.85Z"/>
+</defs>
+</svg>

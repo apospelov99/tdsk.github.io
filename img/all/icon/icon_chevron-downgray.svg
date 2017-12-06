@@ -1,0 +1,16 @@
+<svg width="17" height="9" viewBox="0 0 17 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>arrows-right-2</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(9 31)">
+<g id="arrows-right-2">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="matrix(-1.83697e-16 1 1 1.83697e-16 -9 -31)" fill="#636886"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 8.67619 8.9919L 1.88741 16.0278C 1.45556 16.4756 0.755394 16.4756 0.323755 16.0278C -0.107918 15.5804 -0.107918 14.8547 0.323755 14.4074L 6.33078 8.1817L 0.32393 1.95623C -0.107744 1.50865 -0.107744 0.783086 0.32393 0.335686C 0.755604 -0.111895 1.45574 -0.111895 1.88759 0.335686L 8.67637 7.37168C 8.8922 7.59549 9 7.8885 9 8.18166C 9 8.47497 8.89199 8.7682 8.67619 8.9919Z"/>
+</defs>
+</svg>
